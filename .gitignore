@@ -1,0 +1,4 @@
+# Eagle files
+*.s##*
+*.b##*
+eagle.epf
